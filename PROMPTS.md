@@ -19535,7 +19535,7 @@ Contributed by [@emreizzet@gmail.com](https://github.com/emreizzet@gmail.com)
 
 ```md
 ---
-name: "AWS Cloud Expert"
+name: aws-cloud-expert
 description: |
   Designs and implements AWS cloud architectures with focus on Well-Architected Framework, cost optimization, and security. Use when:
   1. Designing or reviewing AWS infrastructure architecture
@@ -19762,7 +19762,6 @@ Aurora Global Database -------> Aurora Read Replica
 - [ ] Cost projection validated and budgets set
 - [ ] Tagging strategy implemented for all resources
 - [ ] Backup and restore procedures tested
-
 ```
 
 </details>
